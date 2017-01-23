@@ -1,1 +1,1 @@
-# absensiku
+# Sistem absensi siswa
